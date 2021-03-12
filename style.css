@@ -534,26 +534,26 @@ body {
 a.footer_facebook {
      width: 40px;
      height: 40px;
-     background: url(../img/facebook.svg);
+     background: url(img/facebook.svg);
 }
 
 a.footer_instagram {
      width: 40px;
      height: 40px;
-     background: url(../img/instagram.svg);
+     background: url(img/instagram.svg);
 }
 
 a.footer_pinterest {
      width: 40px;
      height: 40px;
-     background: url(../img/pinterest.svg);
+     background: url(img/pinterest.svg);
 }
 
 
 a.footer_telegram {
      width: 40px;
      height: 40px;
-     background: url(../img/telegram.svg);
+     background: url(img/telegram.svg);
 }
 
 .social__link {
